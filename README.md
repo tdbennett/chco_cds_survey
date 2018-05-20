@@ -2,9 +2,9 @@ This one-question SurveyMonkey survey was conducted during May 2018. It was sent
 
 This repository is the public archive of the survey.
 
-A clinical decision support (CDS) tool might, for every patient in the ICU with a natural airway, continuously predict the probability of being intubated during that ICU stay.
+"A clinical decision support (CDS) tool might, for every patient in the ICU with a natural airway, continuously predict the probability of being intubated during that ICU stay.
 
-This question does not qualify as Human Subjects Research according to the Office of Human Research Protections.
+This question does not qualify as Human Subjects Research according to the Office of Human Research Protections."
 
     Please rate your agreement with this statement:
 
