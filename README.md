@@ -1,4 +1,4 @@
-This one-question SurveyMonkey survey was conducted during May 2018. It was sent to the 14 Pediatric ICU attending physcians and the 9 Pediatric ICU advanced practice providers with at least 3 years of experience at Children's Hospital Colorado.
+This one-question SurveyMonkey survey was conducted at the Children's Hospital Colorado Pediatric ICU in May 2018 and at the UCHealth Medical ICU in January 2019. It was sent to all attending physcians and the experienced advanced practice providers at each institution who would be likely to make decisions about intubation in critically ill patients.
 
 This repository is the public archive of the survey.
 
